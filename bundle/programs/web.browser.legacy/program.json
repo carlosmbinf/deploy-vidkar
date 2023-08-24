@@ -1,0 +1,2328 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "ce5a11040ae7ebaa11ec97fa25ef2152a7b081e6.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/ce5a11040ae7ebaa11ec97fa25ef2152a7b081e6.js?meteor_js_resource=true",
+      "replaceable": false,
+      "size": 8798608,
+      "hash": "ce5a11040ae7ebaa11ec97fa25ef2152a7b081e6",
+      "sri": "kq0+9eP7RaCW4aGof0eYkGOGXrpnlRTt8f2wQVvvztcCuqAcqQXLmcD22XxLaGM2hC3S3DAVFjWbgAtj3WxDBA=="
+    },
+    {
+      "path": "ce5a11040ae7ebaa11ec97fa25ef2152a7b081e6.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/ce5a11040ae7ebaa11ec97fa25ef2152a7b081e6.stats.json?meteor_js_resource=true",
+      "size": 200215,
+      "hash": "c3d6de445f9280b9e5616cfba074e3edd662dd8e",
+      "sri": "DzbFHFDrztp6ioWTAhVk6/wCj4JFuDGEr9TDzuemfqMLKWG6uWTXvm+m9A0fw6N6JjCnT4K1ZFUTOM7YGFRf4Q=="
+    },
+    {
+      "path": "eca4f8714b10f5c4b912a587bcac45141dfae0e5.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/eca4f8714b10f5c4b912a587bcac45141dfae0e5.css?meteor_css_resource=true",
+      "size": 8273,
+      "hash": "eca4f8714b10f5c4b912a587bcac45141dfae0e5",
+      "sri": "a1JLDlwAq1v6OnEmnd7gCHuaMUs1aCq4KiI1pxWV1pQFHMj2yjRAncpqb02a/dIWZXkST5Q3aEHjdGkuTXRLhQ=="
+    },
+    {
+      "path": "packages/oauth/end_of_popup_response.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/oauth/end_of_popup_response.js",
+      "size": 1236,
+      "hash": "cebe0774feb530a0f294bbb9e5e76babd47901f1",
+      "sri": "odXbW5eF6T4K2PPbIoSzUTa3oXVS5U2dcIErsulYVDpwRK7EPJ6WPpYPD+4FB4TW4TxwOMohga0GV8gKpAQYmw=="
+    },
+    {
+      "path": "packages/oauth/end_of_redirect_response.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/oauth/end_of_redirect_response.js",
+      "size": 563,
+      "hash": "ebe5604ef48a410deb4d98284b7f07417377cd84",
+      "sri": "63JzKBxmEtiKLC2BVRY2kbBzZF3VB+qgiv3lDj1IFfvA/qBddr2+AZfoB20LP6cxn/whJDJ/c/W8vviNE03H3w=="
+    },
+    {
+      "path": "app/LICENSE",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/LICENSE",
+      "size": 1086,
+      "hash": "e12297e60e7cffedcc7a3648874a7b2217d3c639",
+      "sri": null
+    },
+    {
+      "path": "app/a.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/a.css",
+      "size": 1130,
+      "hash": "faf7d686347bae4001d29591389861d80ac96068",
+      "sri": null
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.ico",
+      "size": 27697,
+      "hash": "afbc9b4b37a263707c7afd79b5cfc308988dfa39",
+      "sri": null
+    },
+    {
+      "path": "app/favicon2.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon2.ico",
+      "size": 67646,
+      "hash": "ba2d60249bdf3d95d893d6484e2680eab3e27551",
+      "sri": null
+    },
+    {
+      "path": "app/primeicons.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/primeicons.css",
+      "size": 11995,
+      "hash": "cd13419017606955369f71456808a92112aede2e",
+      "sri": null
+    },
+    {
+      "path": "app/selection.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/selection.json",
+      "size": 270280,
+      "hash": "cd773f51877245eef90ea5564ec9d503bee10c3f",
+      "sri": null
+    },
+    {
+      "path": "app/winbox64.exe",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/winbox64.exe",
+      "size": 2265496,
+      "hash": "c5c1bd1087d0d445b4e9c0e1b30de1271aa95d7c",
+      "sri": null
+    },
+    {
+      "path": "app/animations/2063-4080-flutter-puzzle-hack-project.riv",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/animations/2063-4080-flutter-puzzle-hack-project.riv",
+      "size": 411991,
+      "hash": "b1aac230d766548f6106b8da795b9a1a63af6593",
+      "sri": null
+    },
+    {
+      "path": "app/animations/485-912-email-icon.riv",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/animations/485-912-email-icon.riv",
+      "size": 9534,
+      "hash": "79529d7aac5aa1654da5dbb6ad7820d0125a6e2c",
+      "sri": null
+    },
+    {
+      "path": "app/animations/animated_login_screen.riv",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/animations/animated_login_screen.riv",
+      "size": 41559,
+      "hash": "7a774be160224c34a38a60b5a3beb7badb35a7ab",
+      "sri": null
+    },
+    {
+      "path": "app/animations/bear.riv",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/animations/bear.riv",
+      "size": 41575,
+      "hash": "8932345a4723d65f7fa29b974bbfc296a6dee8ec",
+      "sri": null
+    },
+    {
+      "path": "app/animations/hero_bot.riv",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/animations/hero_bot.riv",
+      "size": 46168,
+      "hash": "1388d08dcd18bb37fe6e90a5ceb52184e25100e8",
+      "sri": null
+    },
+    {
+      "path": "app/apk/VidKar.apk",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/apk/VidKar.apk",
+      "size": 40176238,
+      "hash": "37dcf5d202981f205c63d807432e3eb97c46082f",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/primeicons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/primeicons.eot",
+      "size": 57560,
+      "hash": "951efde69598ce70f8648f7d35d49bc33f99bf35",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/primeicons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/primeicons.svg",
+      "size": 234873,
+      "hash": "f29417276da38101e4750a5713b2ce0c578eec1f",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/primeicons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/primeicons.ttf",
+      "size": 57384,
+      "hash": "658274f5a7462126c6fd80d6c5a6b83ffecb0880",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/primeicons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/primeicons.woff",
+      "size": 57460,
+      "hash": "8150c46dca92c374882a866e5c67d2f4306d4545",
+      "sri": null
+    },
+    {
+      "path": "app/img/icono.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icono.png",
+      "size": 794644,
+      "hash": "f0e6f0ff2f209b589649e2c1585e2ded4ce1be0b",
+      "sri": null
+    },
+    {
+      "path": "app/img/luces.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/luces.png",
+      "size": 1448769,
+      "hash": "4b1a007a62cfefa7e695da42e70ba91a620e08b2",
+      "sri": null
+    },
+    {
+      "path": "app/img/marcoTV.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/marcoTV.png",
+      "size": 114775,
+      "hash": "4da63da5ed226ca72209cb4535bda0cc20a0248e",
+      "sri": null
+    },
+    {
+      "path": "app/img/marcoTVLuces.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/marcoTVLuces.png",
+      "size": 1345161,
+      "hash": "e29995af4aeb436537766c3ebb6a4c6fbca388e6",
+      "sri": null
+    },
+    {
+      "path": "app/img/pngwing.com.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/pngwing.com.png",
+      "size": 262286,
+      "hash": "e5be7b7fe8eaebe301108cddff96d298b5f8df00",
+      "sri": null
+    },
+    {
+      "path": "app/img/space-bg-shadowcodex.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/space-bg-shadowcodex.jpg",
+      "size": 116766,
+      "hash": "9a3cb3c5e79c429c6f87ca7e3242a1e3e8c2429f",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/align-center.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/align-center.svg",
+      "size": 350,
+      "hash": "0e4affb12d70cfc3255992681425597ec526b206",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/align-justify.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/align-justify.svg",
+      "size": 351,
+      "hash": "da44a96200e8cb85a756d608ec71d812e1556ee9",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/align-left.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/align-left.svg",
+      "size": 356,
+      "hash": "6839508ba1dc1c0c6724e3fb8dc3c816a1ec4d11",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/align-right.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/align-right.svg",
+      "size": 361,
+      "hash": "330e5ea24fcde392b460c8e2800b6996bb57f296",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/android.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/android.svg",
+      "size": 1004,
+      "hash": "b03882866c0f22c1b1564c7e329445ebaa53ca75",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/angle-double-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/angle-double-down.svg",
+      "size": 350,
+      "hash": "ba9101a4c796a9da74c4b9f0cc8eb1c4e7d18a7c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/angle-double-left.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/angle-double-left.svg",
+      "size": 394,
+      "hash": "57add5c3d2e74647e23f13bf759d2940103e794d",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/angle-double-right.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/angle-double-right.svg",
+      "size": 387,
+      "hash": "dfa3fa1e10a65798ae63a1e98c860f4aa2536a52",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/angle-double-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/angle-double-up.svg",
+      "size": 397,
+      "hash": "827ba609470e1d5cf700d98b78a195247dc172b0",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/angle-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/angle-down.svg",
+      "size": 219,
+      "hash": "67ccd814d5b699b358a330927f84239264515475",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/angle-left.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/angle-left.svg",
+      "size": 247,
+      "hash": "cb4a2e481da7c0231b6ffdd8af2725a9df1aaf1b",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/angle-right.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/angle-right.svg",
+      "size": 247,
+      "hash": "52d9c23ea42309827df34b9d74279ef67c2d0f63",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/angle-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/angle-up.svg",
+      "size": 240,
+      "hash": "4471337fb272a0101325fe7805f8969bfc243bc5",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/apple.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/apple.svg",
+      "size": 462,
+      "hash": "a3077c120d7db5ea2539b2c8f21d9b6b8c24c205",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/arrow-circle-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/arrow-circle-down.svg",
+      "size": 424,
+      "hash": "0cba84c0c1f083a5c4f94585a67590c4e7f614cc",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/arrow-circle-left.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/arrow-circle-left.svg",
+      "size": 415,
+      "hash": "54b51f98781b7f5d09be2a0cab614c6b91f6d269",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/arrow-circle-right.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/arrow-circle-right.svg",
+      "size": 417,
+      "hash": "b5b99b213eb58d63b5c26112103b28e2ab824f33",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/arrow-circle-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/arrow-circle-up.svg",
+      "size": 437,
+      "hash": "8e30a68252f1bddc9d25f1091a1087f4ea779be3",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/arrow-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/arrow-down.svg",
+      "size": 318,
+      "hash": "b97b0ce7e51a32dc682dec221dede4e46f158c58",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/arrow-left.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/arrow-left.svg",
+      "size": 309,
+      "hash": "238b8baf07d5f6fb2fc0fba6c3dde6cae03d41c7",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/arrow-right.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/arrow-right.svg",
+      "size": 311,
+      "hash": "9e26cb64ed70a5246a020fc67090c3e8e140c8d9",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/arrow-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/arrow-up.svg",
+      "size": 331,
+      "hash": "20c0546a16c6e75635c624c3592ce25489b157dc",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/backward.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/backward.svg",
+      "size": 499,
+      "hash": "8c41ad9cd95e8e18dbf3b0ecf0f4c71e9c62a16b",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/ban.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/ban.svg",
+      "size": 243,
+      "hash": "993c05705b72a2fa8974a7f623cbe45c70422b45",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/bars.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/bars.svg",
+      "size": 277,
+      "hash": "d388302f9396a4db8ff36479c17e514248fb0264",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/bell.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/bell.svg",
+      "size": 429,
+      "hash": "b4a2145c7026d60c2379c4975e437a5548f69caf",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/book.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/book.svg",
+      "size": 477,
+      "hash": "b3d128a7b231f423ff88db8482c203a6b0ff160f",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/bookmark.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/bookmark.svg",
+      "size": 424,
+      "hash": "02c4e27fd3a490e07241a0f4cb6bc810e7b7bf64",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/briefcase.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/briefcase.svg",
+      "size": 546,
+      "hash": "4882f27b4ea476e488bec8594eaabcdfbe9b4fef",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/calendar-minus.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/calendar-minus.svg",
+      "size": 573,
+      "hash": "c362bd6da75798e4fb9db9060ce749d26a43b074",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/calendar-plus.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/calendar-plus.svg",
+      "size": 640,
+      "hash": "8a94287a6f1234cf90401905e35150b5dc9dc61a",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/calendar-times.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/calendar-times.svg",
+      "size": 781,
+      "hash": "d114a60efd7fbc8c5986d7103229c8c889bb7d72",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/calendar.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/calendar.svg",
+      "size": 482,
+      "hash": "3dd461ca5bd96590b874676216a261f32319a093",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/camera.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/camera.svg",
+      "size": 647,
+      "hash": "d730df11f4522576d0b66c803b4520c6a7105955",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/caret-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/caret-down.svg",
+      "size": 309,
+      "hash": "4248e55bee48cb1af3fea1b0e797ac609eca8a67",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/caret-left.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/caret-left.svg",
+      "size": 307,
+      "hash": "fdaff36e58e6fa977fde514c7a15dc8a61c165a5",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/caret-right.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/caret-right.svg",
+      "size": 306,
+      "hash": "3bb524860ac70cca71f5b4c37486c84f4e9247b5",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/caret-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/caret-up.svg",
+      "size": 285,
+      "hash": "883060057540338a252f32faa7bb76eb4d5f84cf",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chart-bar.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chart-bar.svg",
+      "size": 610,
+      "hash": "f6f181e34efc5e16c0adcc9cd896df9c44c3553c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chart-line.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chart-line.svg",
+      "size": 556,
+      "hash": "123d08501855c8e9af85b9daf531ca6ebe80cdce",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/check-circle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/check-circle.svg",
+      "size": 708,
+      "hash": "22fdf471359054f681303366499bdea6e0568009",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/check-square.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/check-square.svg",
+      "size": 449,
+      "hash": "ef019aa9396ab7dffa4118f8a458f0519462655e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/check.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/check.svg",
+      "size": 217,
+      "hash": "230cf83a565922755a89113567883c7cc2c9bab1",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chevron-circle-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chevron-circle-down.svg",
+      "size": 338,
+      "hash": "3e7ed7d4ea8b57d5c669a1158b92460e2749258a",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chevron-circle-left.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chevron-circle-left.svg",
+      "size": 354,
+      "hash": "b2288c05a436a23e9ee15c16290a0b9f9b5d3d2b",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chevron-circle-right.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chevron-circle-right.svg",
+      "size": 354,
+      "hash": "b24a3ee9aa1e504dc1b418cc7f424f03af5b3afe",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chevron-circle-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chevron-circle-up.svg",
+      "size": 352,
+      "hash": "04ae55e3510d648a6d636ce0630ec22530b8ada1",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chevron-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chevron-down.svg",
+      "size": 225,
+      "hash": "0b22b8f9fbc50d9abdcb34d166cc4ee7b5407247",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chevron-left.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chevron-left.svg",
+      "size": 240,
+      "hash": "6777d550cb366b6f13e0fc3d6ab89451a27e810c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chevron-right.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chevron-right.svg",
+      "size": 247,
+      "hash": "d5fe217ef186336fbbcdc5dc98e6b370c289031e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/chevron-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/chevron-up.svg",
+      "size": 240,
+      "hash": "d3fd988331946fa04157d05288db01504b8d01f0",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/clock.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/clock.svg",
+      "size": 278,
+      "hash": "bbfd1863a50bd4981615684dd7104569281f2709",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/clone.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/clone.svg",
+      "size": 518,
+      "hash": "d24c4edaca8a453cfc71a9941a5782d25339c8a4",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/cloud-download.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/cloud-download.svg",
+      "size": 675,
+      "hash": "6ed92a53856e7db17f884192406086974d143175",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/cloud-upload.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/cloud-upload.svg",
+      "size": 697,
+      "hash": "537598bb68ae9347919574145e1c7c0d0f4aaf59",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/cloud.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/cloud.svg",
+      "size": 380,
+      "hash": "5d8423fc43fdc0bb8d01086a733fb7c3b1d63dfc",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/cog.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/cog.svg",
+      "size": 1615,
+      "hash": "5049c3abe9f8177adf7d01f9e39a26bd3c89b468",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/comment.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/comment.svg",
+      "size": 554,
+      "hash": "fdb4f8ef1c8ebe0d57376217196548b82d207ec8",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/comments.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/comments.svg",
+      "size": 930,
+      "hash": "9580f3743dda7d496fef838eb998662a19024af9",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/compass.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/compass.svg",
+      "size": 412,
+      "hash": "dcaa32c515d8ed6ee6078d46d04e3d41070d379e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/copy.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/copy.svg",
+      "size": 578,
+      "hash": "09f6631044efb7f2149f374e69a5a8642a20919a",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/credit-card.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/credit-card.svg",
+      "size": 398,
+      "hash": "24497281a7393e17f706bea8392988ac1b506d8d",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/desktop.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/desktop.svg",
+      "size": 471,
+      "hash": "89349536e42f600d5ce987e9501c6cde2f1fdb6d",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/directions-alt.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/directions-alt.svg",
+      "size": 723,
+      "hash": "0af4b15f8c35414b3e68263bf5deccc90f9eb0a7",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/directions.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/directions.svg",
+      "size": 703,
+      "hash": "d66d407741de683c6674459c41a69c85a6438a5c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/discord.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/discord.svg",
+      "size": 712,
+      "hash": "47c2ebdec94a517c6113ec9a8f5a3ca8c3def9ce",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/dollar.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/dollar.svg",
+      "size": 432,
+      "hash": "5aae387b939fd8140668574864ea7e904d0572d8",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/download.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/download.svg",
+      "size": 498,
+      "hash": "1ff6642ffe3eb2b30ac7896db365058ab3a8be4f",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/eject.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/eject.svg",
+      "size": 477,
+      "hash": "8b7d8835e177216270f427ced60548981a3f7bec",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/ellipsis-h.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/ellipsis-h.svg",
+      "size": 190,
+      "hash": "8b4290b7f89a19a858e615fb482ad254eee0904e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/ellipsis-v.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/ellipsis-v.svg",
+      "size": 190,
+      "hash": "5dde976067d64cbd05f46061b032fecd88e81e01",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/envelope.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/envelope.svg",
+      "size": 392,
+      "hash": "56f6ee31d690c3a370087a3aa4d93d2e85252511",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/euro.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/euro.svg",
+      "size": 465,
+      "hash": "a3bac4801333e09c9b7ec5816ff27ad37b99f8f3",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/exclamation-circle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/exclamation-circle.svg",
+      "size": 369,
+      "hash": "56e0ecbb280bcefee24e54c99ce69ef394d9818c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/exclamation-triangle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/exclamation-triangle.svg",
+      "size": 482,
+      "hash": "dfd0cf87c82bea52aa8ecd50a2a7cff12826eb1e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/external-link.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/external-link.svg",
+      "size": 552,
+      "hash": "cd04617141e691a95c02bb12ef806ac7036645ac",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/eye-slash.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/eye-slash.svg",
+      "size": 754,
+      "hash": "b05f32a16b3878365290119a54d8787075543c7c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/eye.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/eye.svg",
+      "size": 476,
+      "hash": "4f9028725743ba7006d110850048911da37cafa9",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/facebook.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/facebook.svg",
+      "size": 276,
+      "hash": "3162bcf9b2eea6206176fa9a9d44fe7a3822b4fa",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/fast-backward.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/fast-backward.svg",
+      "size": 669,
+      "hash": "860baaec019e7f5beb71f54119baf129b0bf0c43",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/fast-forward.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/fast-forward.svg",
+      "size": 642,
+      "hash": "09ab3a08ee56f7bb0286c2d3c7b1cb19db9e2a43",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/file-excel.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/file-excel.svg",
+      "size": 610,
+      "hash": "9d8ab054a7d8ea3a96f1560ea22efbebf3890094",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/file-o.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/file-o.svg",
+      "size": 390,
+      "hash": "780925154b796871e398ddb77c4e1883285cc7cd",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/file-pdf.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/file-pdf.svg",
+      "size": 964,
+      "hash": "d1a01a0352866eca4f5ec3f148e9684184549631",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/file.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/file.svg",
+      "size": 388,
+      "hash": "086446bcf5e77a5cc94f61ba035b687edfcfec0f",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/filter-slash.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/filter-slash.svg",
+      "size": 564,
+      "hash": "6e959a0e32f2906008e2a0bf4691391d9909afaf",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/filter.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/filter.svg",
+      "size": 339,
+      "hash": "8f32770c59f7273d5c498cd57a1b83a906b165f2",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/flag.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/flag.svg",
+      "size": 631,
+      "hash": "221bbec8bcb4078f0358bc9c5936f73bcb34a5bd",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/folder-open.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/folder-open.svg",
+      "size": 517,
+      "hash": "ca4f72c61666a7b8cbdfea218223ad0de8b87bb5",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/folder.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/folder.svg",
+      "size": 413,
+      "hash": "cf4e6eb0f742015f719eb625c44c734d9be4e99e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/forward.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/forward.svg",
+      "size": 508,
+      "hash": "325947c4e513a1de0cb51084b5a01615362299c2",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/github.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/github.svg",
+      "size": 1166,
+      "hash": "331611f7e333a98c57ed38a5203fae01e7b2401d",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/globe.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/globe.svg",
+      "size": 521,
+      "hash": "33a2aa2bbeabc739a2368ddf74764a598c68a2c8",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/google.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/google.svg",
+      "size": 455,
+      "hash": "5313408b3a17d42801ccfec70f4c42fb72be73af",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/heart.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/heart.svg",
+      "size": 496,
+      "hash": "3bb9e4690f1e7c25c0d3ce6dcbf868ac38078a15",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/home.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/home.svg",
+      "size": 503,
+      "hash": "be48c52c7add2c15d448db74e18c8d8fdb904220",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/id-card.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/id-card.svg",
+      "size": 708,
+      "hash": "31439c7e0ea5274a54507c4f2207520eb00f8b38",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/image.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/image.svg",
+      "size": 519,
+      "hash": "21d184cc769d7a4db4252eee3aa7bed573190e62",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/images.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/images.svg",
+      "size": 728,
+      "hash": "1819dff931034469ba71622abd7702f6a746c669",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/inbox.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/inbox.svg",
+      "size": 589,
+      "hash": "105cc8be3fa2186603875fb989a74e713284cc2b",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/info-circle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/info-circle.svg",
+      "size": 366,
+      "hash": "f2d3193dba6c61a34e473b26245b264e57626050",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/info.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/info.svg",
+      "size": 259,
+      "hash": "c92e35a2d066be6f4c4d7604bfef19dc9e18a00e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/key.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/key.svg",
+      "size": 562,
+      "hash": "7f7f9ca4cf52b79ff29219f94f7991c3ccd374ff",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/link.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/link.svg",
+      "size": 740,
+      "hash": "3d17346d2f27a309cfb1707cf529b83895098b55",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/list.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/list.svg",
+      "size": 965,
+      "hash": "4e78b67a8055733515476416d8202507541c1ca0",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/lock-open.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/lock-open.svg",
+      "size": 474,
+      "hash": "5570a260bdde1a273d6332de819ddc657b175961",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/lock.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/lock.svg",
+      "size": 462,
+      "hash": "3ec1f416d8e6cf16690b9b0dadb2620c4fb38f88",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/map-marker.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/map-marker.svg",
+      "size": 470,
+      "hash": "6f2b950e344e36a47470d3ec9015cdcd7d0d6c87",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/map.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/map.svg",
+      "size": 617,
+      "hash": "eae17268b131ec8da0eb1acec6695e88839a654c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/microsoft.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/microsoft.svg",
+      "size": 169,
+      "hash": "1ebbb0485cf4117dcff0cbaa0d4d7d407c513402",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/minus-circle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/minus-circle.svg",
+      "size": 255,
+      "hash": "a67952aa830f0325914e0fbdb6a92003eb7d521a",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/minus.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/minus.svg",
+      "size": 136,
+      "hash": "283ff121dfdb9ff419f8890b5a276b7e48cc515f",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/mobile.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/mobile.svg",
+      "size": 382,
+      "hash": "281eb2aaafbdc1e5c1de9f5fdd3dbdfedef942de",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/money-bill.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/money-bill.svg",
+      "size": 1656,
+      "hash": "4c29a077d186c2792527311bf2361e993f60a08b",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/moon.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/moon.svg",
+      "size": 449,
+      "hash": "61cdd43d5e5635548fa9bd8fde4d1ce0357bd22a",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/palette.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/palette.svg",
+      "size": 1146,
+      "hash": "e65eac02cbb9c30f776ba46c7d3f258c0ea7d6a7",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/paperclip.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/paperclip.svg",
+      "size": 592,
+      "hash": "c97b88b391dfe37227f6e5d2684f7fedf8de883a",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/pause.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/pause.svg",
+      "size": 349,
+      "hash": "4cc704c1c38ceee499e19b08a9e31fe4428b4118",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/paypal.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/paypal.svg",
+      "size": 545,
+      "hash": "44bcdd5676ff4c76c78aa41de34a18b3b0b9d7dd",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/pencil.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/pencil.svg",
+      "size": 394,
+      "hash": "aaaf447c95864abae5f9008fc058b869e8c1d1eb",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/percentage.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/percentage.svg",
+      "size": 463,
+      "hash": "e54b6c087d0f05d61b0507b9c9dadc4f86592cc6",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/phone.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/phone.svg",
+      "size": 838,
+      "hash": "468100af50e931a2805c7346315df72d80255b3c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/play.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/play.svg",
+      "size": 292,
+      "hash": "4891a281d76e55565f6fc9eb5e4369a8955e9342",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/plus-circle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/plus-circle.svg",
+      "size": 342,
+      "hash": "c5d7538b3f6da91116fa8e663085c3b087ec28b9",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/plus.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/plus.svg",
+      "size": 253,
+      "hash": "179544493867a535ea1060511b0d47754b96d0f7",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/power-off.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/power-off.svg",
+      "size": 356,
+      "hash": "90437562ead52fb01611b5eaebfe4c7fb951a5c0",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/print.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/print.svg",
+      "size": 679,
+      "hash": "2284773cd50f4dbc106b20329f02b4af1d29ce45",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/question-circle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/question-circle.svg",
+      "size": 480,
+      "hash": "555b4fc415cd14c5d7bb9f17510046fae453d734",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/question.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/question.svg",
+      "size": 286,
+      "hash": "76ffa86239120b071afd7668ca2ad35dd860ca00",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/radio-off.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/radio-off.svg",
+      "size": 188,
+      "hash": "56c032fc462f0db1591f518a630680247f1998c4",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/radio-on.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/radio-on.svg",
+      "size": 118,
+      "hash": "13fa36bed08e072f84284766d67ea376fedb38e9",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/refresh.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/refresh.svg",
+      "size": 381,
+      "hash": "4ec7bf96e9a01a9103fe38e7dd34ede42aecec00",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/replay.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/replay.svg",
+      "size": 380,
+      "hash": "4763b69ff16e71d77597fc558752df6dc2c9ba60",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/reply.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/reply.svg",
+      "size": 371,
+      "hash": "cfb92f6a755b403b3900623b7408b6c68c993310",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/save.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/save.svg",
+      "size": 550,
+      "hash": "50b89b7775ef640d0868c9cf52bfbcb374f475d8",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/search-minus.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/search-minus.svg",
+      "size": 408,
+      "hash": "f3cf0a9179e1c6545893080ba5e834e7a8719885",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/search-plus.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/search-plus.svg",
+      "size": 496,
+      "hash": "26873bf3104a02cee99bc6e0b09270017c679beb",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/search.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/search.svg",
+      "size": 335,
+      "hash": "adbe6ea2d3a147d0469e7fcbf62e2c83eceeebd5",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/send.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/send.svg",
+      "size": 331,
+      "hash": "5a9c8f45d31b5ea06f0f4710783f0e85de982f3f",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/share-alt.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/share-alt.svg",
+      "size": 559,
+      "hash": "3855de36b45f3ec4605f904e2d19f73ddbcfc663",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/shield.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/shield.svg",
+      "size": 442,
+      "hash": "4a387f9414dc5065e2218aae0a54dc65bef54fd9",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/shopping-cart.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/shopping-cart.svg",
+      "size": 455,
+      "hash": "9e4818a210e3027b44a3d492220fe99a66c2ef72",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sign-in.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sign-in.svg",
+      "size": 485,
+      "hash": "533542f95535fae61a3a4fab8a83fb3aa519e028",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sign-out.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sign-out.svg",
+      "size": 481,
+      "hash": "046dc9cbcbe24cc20326143c10e83f48bbb582fd",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sitemap.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sitemap.svg",
+      "size": 1262,
+      "hash": "d8ca095ff4a5c2a6ee0c6814c8098db605b2917c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/slack.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/slack.svg",
+      "size": 511,
+      "hash": "d72a50e2ce8fdf346c1e72ecd857a70968ab0634",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sliders-h.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sliders-h.svg",
+      "size": 736,
+      "hash": "85dacf30563c59b9addda8d4112ff4b60794a756",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sliders-v.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sliders-v.svg",
+      "size": 826,
+      "hash": "7246b3e992f6e1056997b04f54acd4ae0b746b55",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-alpha-alt-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-alpha-alt-down.svg",
+      "size": 671,
+      "hash": "8f76d1dd4f59efe7ee278f35fefa041c127c9dc7",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-alpha-alt-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-alpha-alt-up.svg",
+      "size": 678,
+      "hash": "27caca7d826ad9cbe660a293f38800d4a738d6e9",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-alpha-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-alpha-down.svg",
+      "size": 681,
+      "hash": "51da5f76e10bdfb99a5186bc4cee43be244c0f44",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-alpha-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-alpha-up.svg",
+      "size": 688,
+      "hash": "18546a3a60779fd73b79239723007e2aa71d7de5",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-alt.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-alt.svg",
+      "size": 530,
+      "hash": "9c9d3874a7e32f85939d31dd2a1b991b64419be7",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-amount-down-alt.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-amount-down-alt.svg",
+      "size": 582,
+      "hash": "592ab302ed690f73ca0aa9039f3bd25ce64b0137",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-amount-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-amount-down.svg",
+      "size": 578,
+      "hash": "a34c69668b16e5073dc44e08f5a4621f65f57ab3",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-amount-up-alt.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-amount-up-alt.svg",
+      "size": 590,
+      "hash": "71f427dfd38f1e8e0e087ceb5c903709befcc773",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-amount-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-amount-up.svg",
+      "size": 586,
+      "hash": "8445f815fae31611e626db2428dfdfde8d2b9d71",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-down.svg",
+      "size": 279,
+      "hash": "96b05313ce0cbb0eeda7a2c35c2a6b74e6ff05c7",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-numeric-alt-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-numeric-alt-down.svg",
+      "size": 865,
+      "hash": "989cd665bbe09ce9c9fad860582374a4eb699bf8",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-numeric-alt-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-numeric-alt-up.svg",
+      "size": 864,
+      "hash": "7f9ea1e95223affa9bb0bfa15a520c7cf3e402b9",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-numeric-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-numeric-down.svg",
+      "size": 864,
+      "hash": "b39518383fa29f0dd93f07db80c3bc05b3214bbc",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-numeric-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-numeric-up.svg",
+      "size": 801,
+      "hash": "f7575d86eb7c7ca50aacaae516573a5d26986ef2",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort-up.svg",
+      "size": 292,
+      "hash": "2240af91cb5ce9ec134e4217384524fba73ac2ff",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sort.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sort.svg",
+      "size": 518,
+      "hash": "c1398cb66af4dd9f26e323fad554662b5117a2ea",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/spinner.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/spinner.svg",
+      "size": 224,
+      "hash": "44cc0532a09353c5fbf19fa9ca3d113bfa7b7432",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/star-o.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/star-o.svg",
+      "size": 621,
+      "hash": "96991b45cba38e2d84b5f08e6a2621a4bc353e0c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/star.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/star.svg",
+      "size": 400,
+      "hash": "29acd49d4d5f36978390c06b71835222a1c826cc",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/step-backward-alt.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/step-backward-alt.svg",
+      "size": 431,
+      "hash": "e67795d64afa5432afba685840127b16f6f33ddf",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/step-backward.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/step-backward.svg",
+      "size": 405,
+      "hash": "074ff012005ec0b15e3d4d8ac2668ab84e8e48ca",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/step-forward-alt.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/step-forward-alt.svg",
+      "size": 450,
+      "hash": "1a3fa679cf4d4a20a6a73c21c73b086fae10b7db",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/step-forward.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/step-forward.svg",
+      "size": 405,
+      "hash": "60ff3cfb6743d187ddb83b6d53ce38c74e511bc0",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/sun.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/sun.svg",
+      "size": 993,
+      "hash": "c40c922b4577b4e87a393092ac4d7f69c634a435",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/table.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/table.svg",
+      "size": 411,
+      "hash": "8e07baf5a0c1e89691837bd0bd1ca06e3e00481c",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/tablet.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/tablet.svg",
+      "size": 384,
+      "hash": "8127903ab69bd8dec50d031dee40d91a37144530",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/tag.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/tag.svg",
+      "size": 391,
+      "hash": "20866e9e976e9d017a1963c09832998388951bba",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/tags.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/tags.svg",
+      "size": 582,
+      "hash": "f0a82eeebe8e1d47a6c83388a62e82d592b890c4",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/th-large.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/th-large.svg",
+      "size": 973,
+      "hash": "4744af8f3ac093fffeeadc2f538fb59d89fdda0b",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/thumbs-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/thumbs-down.svg",
+      "size": 628,
+      "hash": "a9da2d1e4f1e34d874ca9b5b678fb2900aba0f07",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/thumbs-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/thumbs-up.svg",
+      "size": 593,
+      "hash": "c6bed378b80ff76306ea99dda3e97190c4f9cea2",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/ticket.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/ticket.svg",
+      "size": 507,
+      "hash": "dd9b6becbea6c02803687bf8b2c56f6afb779f31",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/times-circle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/times-circle.svg",
+      "size": 422,
+      "hash": "fd0c98b2dfb763017bbba036dccf43aae80ef3aa",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/times.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/times.svg",
+      "size": 299,
+      "hash": "861e95b78a944db3f00a9bc72671e9175f916100",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/trash.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/trash.svg",
+      "size": 696,
+      "hash": "9c94fbf18ad8785187b077b725d8d6c1997e614e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/twitter.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/twitter.svg",
+      "size": 523,
+      "hash": "80d8d20b7b21ae8c42350359f793bed9baa3f06e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/undo.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/undo.svg",
+      "size": 378,
+      "hash": "a80e9a1a643fa09702188e1b929c16a6e98f7e43",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/unlock.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/unlock.svg",
+      "size": 458,
+      "hash": "26cf9375bcb8481aacfb8810c482bea54b8cb271",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/upload.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/upload.svg",
+      "size": 508,
+      "hash": "1f1b1bdfccb609623c80468591686e30ff9679f2",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/user-edit.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/user-edit.svg",
+      "size": 749,
+      "hash": "1dc99bafa11ca03d2217dcbc0e484a4980a64b72",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/user-minus.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/user-minus.svg",
+      "size": 459,
+      "hash": "a66a01a095be8bce03f6f72047642ded60de7081",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/user-plus.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/user-plus.svg",
+      "size": 549,
+      "hash": "082d0c2296b8a6e1e03c8614b22521de1481fad7",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/user.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/user.svg",
+      "size": 386,
+      "hash": "f7a9f666a8eb9a9cddae179c728d452ea2443a3e",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/users.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/users.svg",
+      "size": 714,
+      "hash": "efa18cceaf5116612e35ccdb6d7d95c8205b1634",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/video.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/video.svg",
+      "size": 577,
+      "hash": "87f35996ace10dea6a8a88ecf19ebe69a539c4c0",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/vimeo.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/vimeo.svg",
+      "size": 503,
+      "hash": "10d5a5ac8b8310d43e5bdfa61be019b34a4f5a91",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/volume-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/volume-down.svg",
+      "size": 504,
+      "hash": "5482a4bdd5b432a4ce04b2cf8e371be45148e948",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/volume-off.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/volume-off.svg",
+      "size": 348,
+      "hash": "270c7b43b23c651e0e5f6e6227e23085d1d602ef",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/volume-up.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/volume-up.svg",
+      "size": 657,
+      "hash": "c9e688de3a82e5a13fb53b98399171b398a28e21",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/wallet.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/wallet.svg",
+      "size": 593,
+      "hash": "0469f76e4ba55513521bf4989e09098c8d2c84cb",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/wifi.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/wifi.svg",
+      "size": 625,
+      "hash": "bc78795da5ca89cd6d26aad81fc9c545e699aed5",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/window-maximize.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/window-maximize.svg",
+      "size": 777,
+      "hash": "bc2b2f478f5a574ebf04933fe4866f8d716e685f",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/window-minimize.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/window-minimize.svg",
+      "size": 726,
+      "hash": "0808fd728cbc97312a32822688440c12c8b2d784",
+      "sri": null
+    },
+    {
+      "path": "app/raw-svg/youtube.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/raw-svg/youtube.svg",
+      "size": 433,
+      "hash": "2f07376c5590a82c22b7ce7fd583cbc684e658f0",
+      "sri": null
+    },
+    {
+      "path": "app/videos/subtitulo/init.txt",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/videos/subtitulo/init.txt",
+      "size": 0,
+      "hash": "1d6ae98d42f808bbae3ef7f1bf284c4968836669",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "edfa32c6378c5b8d56613782edc0c31bf2fa5a59"
+    },
+    {
+      "path": "body.html",
+      "where": "internal",
+      "type": "body",
+      "hash": "33a76f2b4c30f6e44559d748578e1b43c573b579"
+    }
+  ]
+}
